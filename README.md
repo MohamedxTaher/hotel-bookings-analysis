@@ -20,4 +20,4 @@ This project involves analyzing a hotel bookings dataset to uncover trends, canc
 - Target marketing to top European countries.
 
 ## Link to Notebook:
-[Hotel Bookings Analysis](link_to_notebook)
+https://github.com/MohamedxTaher/hotel-bookings-analysis/blob/main/hotel--bookings-analysis.ipynb
